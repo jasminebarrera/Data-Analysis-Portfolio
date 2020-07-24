@@ -3,5 +3,5 @@ Repository containing portfolio of completed data analysis projects for academic
 
 ## Contents
 - [Predicting Coronary Heart Disease with Shiny App](http://www.primeanalyses.com/)
-  - Summary of exploratory data analysis of patients, logistic regression model, and prediction output for use based on physiological measurements.
+  - Summary of exploratory data analysis of patient physiological measurements, logistic regression model, and coronary heard disease prediction for user based on their own physiological measurements.
 
