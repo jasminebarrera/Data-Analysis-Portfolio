@@ -3,7 +3,7 @@ Repository containing portfolio of completed data analysis projects for academic
 
 ## Contents
 - [Predicting Coronary Heart Disease](http://www.primeanalyses.com/) - Shiny App
-  - Summary of exploratory data analysis of patient physiological measurements in heart study, logistic regression model, and coronary heard disease prediction for user based on their own physiological measurements.
+  - Summary of exploratory data analysis of patient physiological measurements in heart study, logistic regression model, and coronary heart disease prediction for user based on their own physiological measurements.
  
 - [New York City Airbnb](https://github.com/jasminebarrera/Data-Analysis-Portfolio/blob/master/NYC_Airbnb_EDA.ipynb) - Exploratory Data Analysis
   - Exploratory analysis of Airbnb listings in New York City, focusing on investigating the relationship between price and location, room type, and other listing attributes. Includes insights for both hosts and customers. 
